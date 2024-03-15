@@ -15,5 +15,8 @@
 			"Name": "FieldSystemPlugin",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
